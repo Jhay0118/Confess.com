@@ -1,0 +1,156 @@
+.cute-btn{
+    color: whitesmoke;
+    padding: 10px 15px;
+    font-size: 13px;
+    border-radius: 50px;
+    border-color: pink;
+    background-color: palevioletred;
+    border:none;
+    text-align: right;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.font1{
+    font-family: cursive;
+    color: palevioletred;
+}
+
+.button1{
+    margin-right: 200px;
+}
+
+.button2{
+    margin-left: 20px;
+}
+
+.abutton1{
+    margin-right: 155px;
+}
+
+.abutton2{
+    margin-left: 5px;
+}
+
+.bbutton1{
+    margin-right: 230px;
+}
+
+.bbutton2{
+    margin-left: 40px;
+}
+
+.cbutton1{
+    margin-right: 180px;
+}
+
+.cbutton2{
+    margin-left: -50px;
+}
+
+.cute-btn{
+    position: absolute;
+    margin-right: 4px;
+    margin-left: 10px;
+    
+}
+
+.cute-btn:hover{
+    padding: 15px 20px;
+    background-color: pink;
+}
+.center{
+    margin-top: 140px;
+}
+
+.center1{
+    margin-top: 0px;
+}
+
+.msc{
+    width: 50%;
+}
+
+@media only screen and (min-width:768px) and (max-width: 1024px) {  
+    .button1{
+        margin-right: 0px;
+    }
+    
+    .button2{
+        margin-top: 15px;
+        margin-left: 0px;
+    }
+    
+    .abutton1{
+        margin-right: 0px;
+    }
+    
+    .abutton2{
+        margin-top: 15px;
+        margin-left: 0px;
+    }
+    
+    .bbutton1{
+        margin-right: 0px;
+    }
+    
+    .bbutton2{
+        margin-top: 15px;
+        margin-left: 0px;
+    }
+    
+    .cbutton1{
+        margin-right: 0px;
+    }
+    
+    .cbutton2{
+        margin-top: 15px;
+        margin-left: 0px;
+    }
+    
+    .img{
+        margin-top: -70px;
+        width: 500px;
+        height: 500px;
+    }
+
+    .cute-btn{
+        padding: 40px 45px;
+        font-size: 45px;
+        border-radius: 50px;
+    }
+
+    .cute-btn{
+        position: relative;
+    }
+
+    .cute-btn:hover{
+        padding: 55px 60px;
+        font-size: 50;
+        background-color: pink;
+    }
+
+    .font1{
+        font-family: fantasy;
+    }
+
+    .para1{
+        font-size: 50px;
+    }
+
+    .para{
+        font-size: 38px;
+    }
+
+    .msc{
+        size: 70%;
+    }
+
+    .center{
+        margin-top: 300px;
+    }
+
+    .center1{
+        margin-top: 300px;
+    }
+}
